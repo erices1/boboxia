@@ -1,0 +1,77 @@
+{
+  "status": "0",
+  "msg": "",
+  "result": [
+  {
+    "id": 18,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  },
+  {
+    "id": 19,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  },
+  {
+    "id": 20,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  },
+  {
+    "id": 21,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  },
+  {
+    "id": 22,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  },
+  {
+    "id": 23,
+    "name": "John Brown",
+    "account": "New York",
+    "loginTime": "2016-10-03",
+    "register": "2016-10-03",
+    "class": "一级渠道",
+    "under": "baidu",
+    "system": "ios",
+    "commissioner": "缪新云",
+    "status": "未审核"
+  }, ]
+}
